@@ -30,6 +30,7 @@ A simple web application designed to display property listings and for customers
 
 ### Admin Page
 
-![Admin](https://user-images.githubusercontent.com/57411348/120081028-fc1a8f00-c0d8-11eb-813b-40e748164d0e.png)
+![Admin](https://user-images.githubusercontent.com/57411348/120081254-6a138600-c0da-11eb-9f8a-a9c29baccfc0.png)
+
 
 
