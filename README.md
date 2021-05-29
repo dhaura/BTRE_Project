@@ -12,4 +12,7 @@ A simple web application designed to display property listings and for customers
 
 ## Main
 
+![Home](https://user-images.githubusercontent.com/57411348/120080956-a514ba00-c0d8-11eb-85f2-c14067309f3b.png)
+
+
 
