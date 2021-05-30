@@ -24,7 +24,7 @@ A simple web application designed to display property listings and for customers
 
 ![About](https://user-images.githubusercontent.com/57411348/120081066-2f5d1e00-c0d9-11eb-9bf2-801c1cd38529.png)
 
-### Admin Page
+### Admin Panel
 
 ![Admin](https://user-images.githubusercontent.com/57411348/120081254-6a138600-c0da-11eb-9f8a-a9c29baccfc0.png)
 
